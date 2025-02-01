@@ -6,6 +6,7 @@
 ### 🚀 About Me
 
 I am a frontend developer with experience in building interactive, user-friendly, and high-performance web applications. I specialize in working with **Vue.js**, **Electron**, and **Node.js** to create modern interfaces and cross-platform solutions.
+
 ---
 
 ### 🛠️ My Tech Stack
