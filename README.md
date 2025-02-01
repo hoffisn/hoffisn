@@ -1,5 +1,5 @@
-<h1 align="center">Привет! 👋 Я — Никита</h1>
-<h3 align="center">Фронтенд-разработчик | JS | Vue | Electron | Node.js</h3>
+<h1 align="left">Привет! 👋 Я — Никита</h1>
+<h3 align="">Фронтенд-разработчик | JS | Vue | Electron | Node.js</h3>
 
 ---
 
@@ -25,18 +25,6 @@
 
 ---
 
-### 📊 GitHub Статистика  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoffisn&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoffisn&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 💌 Контакты  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@sfvalencev)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valencevnik@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sfvalencev)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valencevnik@gmail.com)  
 
